@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export>
+  <export_location>unknown</export_location>
+  <order>
+    <merchant_id>12474</merchant_id>
+    <order_id>12474-201212170837-388136</order_id>
+    <order_date>17 DEC 2012 08:37:38</order_date>
+    <order_type>credit card</order_type>
+    <current_stage>AR</current_stage>
+    <payment_status>Unprocessed</payment_status>
+    <bill_to_company />
+    <bill_to_title />
+    <bill_to_first_name>test</bill_to_first_name>
+    <bill_to_last_name>test</bill_to_last_name>
+    <bill_to_address1>1 test</bill_to_address1>
+    <bill_to_address2 />
+    <bill_to_city>cary</bill_to_city>
+    <bill_to_state>NC</bill_to_state>
+    <bill_to_zip>27513</bill_to_zip>
+    <bill_to_country>United States</bill_to_country>
+    <tax_county />
+    <ship_to_company />
+    <ship_to_title />
+    <ship_to_first_name>test</ship_to_first_name>
+    <ship_to_last_name>test</ship_to_last_name>
+    <ship_to_address1>1 test</ship_to_address1>
+    <ship_to_address2 />
+    <ship_to_city>cary</ship_to_city>
+    <ship_to_state>nc</ship_to_state>
+    <ship_to_zip>27513</ship_to_zip>
+    <ship_to_country>United States</ship_to_country>
+    <shipping_method>USPS: First Class</shipping_method>
+    <lift_gate>N</lift_gate>
+    <gift>no</gift>
+    <email>mpsprospect@example.com</email>
+    <mailing_list>Y</mailing_list>
+    <day_phone>123-456-7890</day_phone>
+    <evening_phone />
+    <fax />
+    <card_type>Visa</card_type>
+    <card_number>XXXXXXXXXXXX1111</card_number>
+    <card_exp_month>2</card_exp_month>
+    <card_exp_year>2013</card_exp_year>
+    <card_auth_ticket />
+    <payment_method>Credit Card</payment_method>
+    <item>
+      <merchant_id>12474</merchant_id>
+      <order_id>12474-201212170837-388136</order_id>
+      <item_id>G1</item_id>
+      <item_index>1</item_index>
+      <quantity>1</quantity>
+      <description>UREVIVE GREEN COFFEE BEAN EXTRACT 1 MONTH</description>
+      <cost>47.00</cost>
+      <unit_cost_with_discount>47.00</unit_cost_with_discount>
+      <total_cost_with_discount>47.00</total_cost_with_discount>
+      <cogs />
+      <actual_cogs />
+      <item_weight>0.375 LB</item_weight>
+      <tax_free>false</tax_free>
+      <special_product_type />
+      <free_shipping>false</free_shipping>
+      <accounting_code>G1</accounting_code>
+      <discount>0.00</discount>
+      <distribution_center_code>DFLT</distribution_center_code>
+      <kit>N</kit>
+      <kit_component>N</kit_component>
+    </item>
+    <weight>0.38 LB</weight>
+    <subtotal>47.00</subtotal>
+    <tax_rate>0.00000</tax_rate>
+    <tax>0.00</tax>
+    <shipping_handling_total>5.99</shipping_handling_total>
+    <shipping_handling_total_discount>0.00</shipping_handling_total_discount>
+    <surcharge_transaction_fee>0.00</surcharge_transaction_fee>
+    <surcharge_transaction_percentage>0.0000</surcharge_transaction_percentage>
+    <surcharge>0.00</surcharge>
+    <total>52.99</total>
+    <currency_code />
+    <actual_profit_analyzed>N</actual_profit_analyzed>
+    <actual_profit_review>N</actual_profit_review>
+    <actual_shipping />
+    <actual_other_cost />
+    <actual_fulfillment />
+    <actual_payment_processing />
+    <actual_profit />
+    <gift_certificate_amount>0.00</gift_certificate_amount>
+    <special_instructions />
+    <merchant_notes>This order had too many failed real-time attempts to process the payment.  Please contact the customer and obtain valid payment information.  The transaction history will give you an indication of the problem the customer experienced during the checkout process.</merchant_notes>
+    <subtotal_discount>0.00</subtotal_discount>
+    <gift_charge_accounting_code />
+    <gift_wrap_accounting_code />
+    <surcharge_accounting_code />
+    <shipping_method_accounting_code />
+    <payment_method_accounting_code />
+    <payment_method_deposit_to_account />
+    <tax_country_accounting_code />
+    <tax_state_accounting_code />
+    <tax_county_accounting_code />
+    <tax_city_accounting_code />
+    <tax_postal_code_accounting_code />
+    <referral_code />
+    <advertising_source />
+    <screen_branding_theme_code>DFLT</screen_branding_theme_code>
+    <insureship_available>N</insureship_available>
+    <insureship_separate>N</insureship_separate>
+    <insureship_wanted>N</insureship_wanted>
+    <has_customer_profile>Y</has_customer_profile>
+    <transaction_details />
+    <customer_ip_address>74.242.209.123</customer_ip_address>
+  </order>
+</export>
+
